@@ -7,14 +7,14 @@
 - [ ] Pousser v0 de beta.ign.fr en production
 - [ ] Implémenter API MCP
 - [ ] Ecrire l'article pour échanger
-- [ ] Assurer le point hebdo
+- [ ] Assurer le point hebdo GeoLLM
 - [ ] Garder un oeil sur Airflow
 - [x] Relancer Lucille et Bruno et Florent sur l'expérimentation recalage batiments
-- [ ] Redescendre les informations sur roofer glanées via la région IDF
-- [ ] Assurer le point hebdo GeoLLM
-- [ ] Remonter les présentations du Ken Inspire au SIMV
+- [x] Redescendre les informations sur roofer glanées via la région IDF
+- [x] Remonter les présentations du Ken Inspire au SIMV
 - [ ] Finir de creuser les sujets Github pour éviter un bill shock
+- [ ] Relire les travaux de Thierry Gerbeau
+- [ ] Prendre contact avec assistant IA
 
 ## Pet projects
 - [ ] Front pour service de téléchargement
-- [ ] 
