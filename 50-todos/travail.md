@@ -2,7 +2,7 @@
 
 ## Boulot
 
-- [ ] Envoyer demande POC IGNfab à Eliane
+- [x] Envoyer demande POC IGNfab à Eliane
 - [ ] Relire travaux Mickael sur gpf schema store
 - [ ] Pousser v0 de beta.ign.fr en production
 - [ ] Implémenter API MCP
