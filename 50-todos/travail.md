@@ -19,3 +19,9 @@
 
 ## Pet projects
 - [ ] Front pour service de téléchargement
+
+# Semaine du 13 au 18 Juillet 2026
+
+## Boulot
+
+- [ ] déminer *.beta.ign.fr avec dircom
