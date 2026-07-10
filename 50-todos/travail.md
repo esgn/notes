@@ -11,6 +11,7 @@
 - [x] Garder un oeil sur Airflow
 - [x] Relancer Lucille et Bruno et Florent sur l'expérimentation recalage batiments
 - [x] Redescendre les informations sur roofer glanées via la région IDF
+- [x] Assurer un premier support à la région IDF
 - [x] Remonter les présentations du Ken Inspire au SIMV
 - [ ] Finir de creuser les sujets Github pour éviter un bill shock
 - [ ] Relire les travaux de Thierry Gerbeau
