@@ -3,12 +3,12 @@
 ## Boulot
 
 - [x] Envoyer demande POC IGNfab à Eliane
-- [ ] Relire travaux Mickael sur gpf schema store
+- [x] Relire travaux Mickael sur gpf schema store
 - [ ] Pousser v0 de beta.ign.fr en production
 - [ ] Implémenter API MCP
-- [ ] Ecrire l'article pour échanger
+- [x] Ecrire l'article pour échanger
 - [x] Assurer le point hebdo GeoLLM
-- [ ] Garder un oeil sur Airflow
+- [x] Garder un oeil sur Airflow
 - [x] Relancer Lucille et Bruno et Florent sur l'expérimentation recalage batiments
 - [x] Redescendre les informations sur roofer glanées via la région IDF
 - [x] Remonter les présentations du Ken Inspire au SIMV
