@@ -13,8 +13,9 @@
 - [x] Redescendre les informations sur roofer glanées via la région IDF
 - [x] Assurer un premier support à la région IDF
 - [x] Remonter les présentations du Ken Inspire au SIMV
+- [x] Relancer Bruno sur reconstruction 3D des arbres
 - [ ] Finir de creuser les sujets Github pour éviter un bill shock
-- [ ] Relire les travaux de Thierry Gerbeau
+- [x] Relire les travaux de Thierry Gerbeau => mick fait
 - [x] Prendre contact avec assistant IA
 
 ## Pet projects
