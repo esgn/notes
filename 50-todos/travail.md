@@ -1,11 +1,36 @@
+# Semaine du 20 au 24 Juillet 2026
+
+- [ ] Déminer *.beta.ign.fr avec dircom
+- [ ] Pousser v0 de beta.ign.fr en production
+- [ ] Relancer les travaux MCP avec Lionel
+- [ ] Tuer la v0.10 du MCP si faisable
+- [ ] Finir de creuser les sujets Github pour éviter un bill shock
+
+## gpf-telechargement
+
+- [ ] Remonter les issues à la diffusion
+- [ ] Continuer de communiquer sur l'outil => Réseaux sociaux ? 
+  
+## Boulot
+
+- [ ] déminer *.beta.ign.fr avec dircom
+
+# Semaine du 13 au 18 Juillet 2026
+
+## Boulot
+
+- [x] Implémenter API MCP
+
+## Pet projects
+
+- [x] Front pour service de téléchargement
+
 # Semaine du 6 au 10 Juillet 2026
 
 ## Boulot
 
 - [x] Envoyer demande POC IGNfab à Eliane
 - [x] Relire travaux Mickael sur gpf schema store
-- [ ] Pousser v0 de beta.ign.fr en production
-- [ ] Implémenter API MCP
 - [x] Ecrire l'article pour échanger
 - [x] Assurer le point hebdo GeoLLM
 - [x] Garder un oeil sur Airflow
@@ -14,15 +39,7 @@
 - [x] Assurer un premier support à la région IDF
 - [x] Remonter les présentations du Ken Inspire au SIMV
 - [x] Relancer Bruno sur reconstruction 3D des arbres
-- [ ] Finir de creuser les sujets Github pour éviter un bill shock
 - [x] Relire les travaux de Thierry Gerbeau => mick fait
 - [x] Prendre contact avec assistant IA
 
-## Pet projects
-- [ ] Front pour service de téléchargement
 
-# Semaine du 13 au 18 Juillet 2026
-
-## Boulot
-
-- [ ] déminer *.beta.ign.fr avec dircom
