@@ -1,5 +1,7 @@
 # Semaine du 20 au 24 Juillet 2026
 
+## Boulot
+
 - [ ] Déminer *.beta.ign.fr avec dircom
 - [ ] Pousser v0 de beta.ign.fr en production
 - [ ] Relancer les travaux MCP avec Lionel
@@ -10,10 +12,6 @@
 
 - [ ] Remonter les issues à la diffusion
 - [ ] Continuer de communiquer sur l'outil => Réseaux sociaux ? 
-  
-## Boulot
-
-- [ ] déminer *.beta.ign.fr avec dircom
 
 # Semaine du 13 au 18 Juillet 2026
 
