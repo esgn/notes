@@ -4,14 +4,15 @@
 
 - [ ] Déminer *.beta.ign.fr avec dircom
 - [ ] Pousser v0 de beta.ign.fr en production
-- [ ] Relancer les travaux MCP avec Lionel
+- [x] Relancer les travaux MCP avec Lionel
 - [ ] Tuer la v0.10 du MCP si faisable
 - [ ] Finir de creuser les sujets Github pour éviter un bill shock
 
 ## gpf-telechargement
 
-- [ ] Remonter les issues à la diffusion
-- [ ] Continuer de communiquer sur l'outil => Réseaux sociaux ? 
+- [x] Remonter les issues à la diffusion
+- [x] Continuer de communiquer sur l'outil => Réseaux sociaux ?
+- [ ] Rajouter le service de téléchargement en mode chunk
 
 # Semaine du 13 au 18 Juillet 2026
 
