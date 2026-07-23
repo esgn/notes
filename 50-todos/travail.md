@@ -7,6 +7,7 @@
 - [x] Relancer les travaux MCP avec Lionel
 - [ ] Tuer la v0.10 du MCP si faisable
 - [X] Finir de creuser les sujets Github pour éviter un bill shock
+- [ ] Fournir les nouveaux départements à la région IDF
 
 ## gpf-telechargement
 
